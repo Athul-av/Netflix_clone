@@ -1,0 +1,5 @@
+class apiconstants{
+
+  final  String apikey ='22dcd0e2091dd9ed2a4194872a4e7c89';
+  final String readaccesstoken = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMmRjZDBlMjA5MWRkOWVkMmE0MTk0ODcyYTRlN2M4OSIsInN1YiI6IjYzYTdlZGUyYTU3NDNkMDBkZjNiN2RlYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.nTOMglUBEUXIc4dvI5S2H4Wkige8-u7avJ_EDWFIrRk';
+}
